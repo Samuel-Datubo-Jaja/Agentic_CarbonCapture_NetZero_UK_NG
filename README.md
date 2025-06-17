@@ -1,7 +1,6 @@
 # Agentic_CarbonCapture_NetZero_UK_NG
 
 # 🌍 Project Summary: UK-Nigeria Carbon Capture Agent
-## 🔹 Project Name:
 UK-Nigeria Carbon Capture Agent
 A multi-agent AI system for carbon monitoring, strategy, and compliance across the UK and Nigeria.
 
